@@ -1,0 +1,10 @@
+C:\Users\kosty\OneDrive\Рабочий стол\Приклад 2\bin\Debug\Приклад 2.exe.config
+C:\Users\kosty\OneDrive\Рабочий стол\Приклад 2\bin\Debug\Приклад 2.exe
+C:\Users\kosty\OneDrive\Рабочий стол\Приклад 2\bin\Debug\Приклад 2.pdb
+C:\Users\kosty\OneDrive\Рабочий стол\Приклад 2\obj\Debug\Приклад 2.csproj.AssemblyReference.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Приклад 2\obj\Debug\Приклад_2.Form1.resources
+C:\Users\kosty\OneDrive\Рабочий стол\Приклад 2\obj\Debug\Приклад_2.Properties.Resources.resources
+C:\Users\kosty\OneDrive\Рабочий стол\Приклад 2\obj\Debug\Приклад 2.csproj.GenerateResource.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Приклад 2\obj\Debug\Приклад 2.csproj.CoreCompileInputs.cache
+C:\Users\kosty\OneDrive\Рабочий стол\Приклад 2\obj\Debug\Приклад 2.exe
+C:\Users\kosty\OneDrive\Рабочий стол\Приклад 2\obj\Debug\Приклад 2.pdb
